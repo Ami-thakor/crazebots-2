@@ -40,7 +40,7 @@ def success_view(request):
     return render(request, "success.html")
 
 
-bot_token = "6308227197:AAHweeHPdwsa9SDWpr7g627qxpqtbZsaWsU"
+bot_token = "6308227197:AAFMX5tHBRFHTfGn3ErljU4u-BrcHNvoLTY"
 chat_id = 5294965763
 
 
